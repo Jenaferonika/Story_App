@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.StoryApp" parent="Theme.Material3.DayNight">
+        <!-- Warna utama aplikasi -->
+        <item name="colorPrimary">@color/hijau</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <!-- Warna latar dan konten -->
+        <item name="colorSurface">@android:color/white</item>
+    </style>
+
+    <style name="Theme.StoryApp" parent="Base.Theme.StoryApp" />
+
+    <!-- Custom style for Toolbar -->
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <!-- Warna latar belakang toolbar -->
+        <item name="android:background">@color/hijau</item>
+        <!-- Warna teks pada toolbar -->
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <!-- Warna ikon toolbar -->
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+</resources>

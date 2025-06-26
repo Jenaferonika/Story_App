@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login_image">login image</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="button_log_in">Log in</string>
+    <string name="hi_welcome">Hi, Welcome!</string>
+    <string name="hi_welcome2">Hi, Welcome back!</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="button_register">Register</string>
+    <string name="field_empty">"Field ini tidak boleh kosong "</string>
+    <string name="user_name">nama user</string>
+    <string name="logout">logout</string>
+    <string name="storyapp">StoryApp</string>
+    <string name="add">add</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="input_desc">Input description over here</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="back">back</string>
+    <string name="add_story">Add Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="loading">Loading maps, please wait...</string>
+    <string name="my_location">My Location</string>
+    <string name="maps">Maps</string>
+    <string name="enable_location">Share Location</string>
+    <string name="try_again">Try Again</string>
+</resources>
